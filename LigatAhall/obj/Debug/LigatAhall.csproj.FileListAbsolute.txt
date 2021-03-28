@@ -1,0 +1,10 @@
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\bin\Debug\LigatAhall.exe.config
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\bin\Debug\LigatAhall.exe
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\bin\Debug\LigatAhall.pdb
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.csprojResolveAssemblyReference.cache
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.Properties.Resources.resources
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.csproj.GenerateResource.Cache
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.exe
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.pdb
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.Main.resources
+C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\LigatAhall\LigatAhall\obj\Debug\LigatAhall.Menu.resources
